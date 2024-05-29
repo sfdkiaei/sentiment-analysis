@@ -21,7 +21,7 @@ nltk.download('punkt')
 Download the [Amazon Customer Reviews Dataset](https://www.kaggle.com/bittlingmayer/amazonreviews) from Kaggle.
 
 ## Config
-Choose your desired model config is `configuration` part of the `train.py`.
+Choose your desired model config in `configuration` part of the `train.py`.
 
 ## Train
 Run this command in a terminal
